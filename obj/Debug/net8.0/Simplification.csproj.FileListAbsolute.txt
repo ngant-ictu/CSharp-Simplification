@@ -1,0 +1,18 @@
+D:/JungTalent project/.NET/OOP/Exercises/Abstraction/Simplification/Simplification/obj/Debug/net8.0/Simplification.GeneratedMSBuildEditorConfig.editorconfig
+D:/JungTalent project/.NET/OOP/Exercises/Abstraction/Simplification/Simplification/obj/Debug/net8.0/Simplification.AssemblyInfoInputs.cache
+D:/JungTalent project/.NET/OOP/Exercises/Abstraction/Simplification/Simplification/obj/Debug/net8.0/Simplification.AssemblyInfo.cs
+D:/JungTalent project/.NET/OOP/Exercises/Abstraction/Simplification/Simplification/obj/Debug/net8.0/Simplification.csproj.CoreCompileInputs.cache
+/Users/apple/Downloads/Simplification/Simplification/bin/Debug/net8.0/Simplification
+/Users/apple/Downloads/Simplification/Simplification/bin/Debug/net8.0/Simplification.deps.json
+/Users/apple/Downloads/Simplification/Simplification/bin/Debug/net8.0/Simplification.runtimeconfig.json
+/Users/apple/Downloads/Simplification/Simplification/bin/Debug/net8.0/Simplification.dll
+/Users/apple/Downloads/Simplification/Simplification/bin/Debug/net8.0/Simplification.pdb
+/Users/apple/Downloads/Simplification/Simplification/obj/Debug/net8.0/Simplification.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Downloads/Simplification/Simplification/obj/Debug/net8.0/Simplification.AssemblyInfoInputs.cache
+/Users/apple/Downloads/Simplification/Simplification/obj/Debug/net8.0/Simplification.AssemblyInfo.cs
+/Users/apple/Downloads/Simplification/Simplification/obj/Debug/net8.0/Simplification.csproj.CoreCompileInputs.cache
+/Users/apple/Downloads/Simplification/Simplification/obj/Debug/net8.0/Simplification.dll
+/Users/apple/Downloads/Simplification/Simplification/obj/Debug/net8.0/refint/Simplification.dll
+/Users/apple/Downloads/Simplification/Simplification/obj/Debug/net8.0/Simplification.pdb
+/Users/apple/Downloads/Simplification/Simplification/obj/Debug/net8.0/Simplification.genruntimeconfig.cache
+/Users/apple/Downloads/Simplification/Simplification/obj/Debug/net8.0/ref/Simplification.dll
